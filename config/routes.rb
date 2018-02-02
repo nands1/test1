@@ -1,7 +1,13 @@
 Rails.application.routes.draw do
+
   get 'test3/page'
 
+
+  get 'test4/page'
+
+
   get 'test2/page'
+
 
   get 'test1/page'
 
